@@ -97,11 +97,3 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ## 👨‍💻 Author
 
 Developed by **\Bappa Saha**
-Inspired by a C# ASP.NET MVC Meal Manager Project.
-
-```
-
----
-
-👉 Do you want me to also **add some badges** (Python version, MIT License, Made with ❤️ etc.) to make it look more professional like your GitHub profile design?
-```
